@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+node_modules/
+my-app/node_modules/
+/workspace.xml
+/package.json
+/tailwind.config.js
+
+
+
+
