@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/node_modules/
+node_modules/
 /my-app/node_modules/
 /workspace.xml
 /package.json
